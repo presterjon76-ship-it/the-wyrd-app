@@ -1,0 +1,151 @@
+[
+  {
+    "id": "fool",
+    "name": "The Fool",
+    "suit": "major",
+    "number": 0,
+    "arcana": "major",
+    "keywords": [
+      "Leap of Faith",
+      "Spontaneous Ignition",
+      "Innocence",
+      "Clean Slate"
+    ],
+    "upright_meaning": "Pure beginning and total faith. Stepping off the precipice into the uncharted void without terror.",
+    "reversed_meaning": "Recklessness, blind naivety, refusal to heed sensors, or hesitation masking dread."
+  },
+  {
+    "id": "magician",
+    "name": "The Magician",
+    "suit": "major",
+    "number": 1,
+    "arcana": "major",
+    "keywords": [
+      "Master Operator",
+      "Concentrated Will",
+      "Resource Synthesis",
+      "Action"
+    ],
+    "upright_meaning": "As above, so below. Aligning tool, intent, and element to manifest physical outcome.",
+    "reversed_meaning": "Illusion, deceptive posturing, misdirected energy, or uncalibrated devices."
+  },
+  {
+    "id": "high_priestess",
+    "name": "The High Priestess",
+    "suit": "major",
+    "number": 2,
+    "arcana": "major",
+    "keywords": [
+      "The Inner Sanctum",
+      "Subconscious Registry",
+      "Intuitive Depth",
+      "Silence"
+    ],
+    "upright_meaning": "The quiet voice behind the altar. Stillness yields encrypted wisdom.",
+    "reversed_meaning": "Ignoring instinct, surface superficiality, paranoia, or suppressed knowledge."
+  },
+  {
+    "id": "emperor",
+    "name": "The Emperor",
+    "suit": "major",
+    "number": 4,
+    "arcana": "major",
+    "keywords": [
+      "Imperial Sovereignty",
+      "Unyielding Structure",
+      "Domain Defense",
+      "Discipline"
+    ],
+    "upright_meaning": "The iron throne and lawful order. Stability built through relentless execution and established protocol.",
+    "reversed_meaning": "Tyrannical control, brittle rigidity, failure of governance, or broken lines of command."
+  },
+  {
+    "id": "hierophant",
+    "name": "The Hierophant",
+    "suit": "major",
+    "number": 5,
+    "arcana": "major",
+    "keywords": [
+      "Sacred Tradition",
+      "Tech-Priesthood",
+      "Covenant",
+      "Structured Wisdom"
+    ],
+    "upright_meaning": "The codified doctrine and transmission of ancestral rites. Respect for heritage and tested structures.",
+    "reversed_meaning": "Dogmatic stagnation, oppressive orthodoxy, or hollow rituals devoid of spirit."
+  },
+  {
+    "id": "hermit",
+    "name": "The Hermit",
+    "suit": "major",
+    "number": 9,
+    "arcana": "major",
+    "keywords": [
+      "Solitary Lantern",
+      "Introspection",
+      "Vigilance",
+      "Self-Reliance"
+    ],
+    "upright_meaning": "Stepping back from the noise of the hive. Truth discovered in silent vigil and individual inquiry.",
+    "reversed_meaning": "Isolation turning to bitterness, withdrawal from duty, or fear of the world outside."
+  },
+  {
+    "id": "wheel_of_fortune",
+    "name": "The Wheel of Fortune",
+    "suit": "major",
+    "number": 10,
+    "arcana": "major",
+    "keywords": [
+      "Cosmic Cycles",
+      "The Great Engine",
+      "Inevitable Shift",
+      "Destiny"
+    ],
+    "upright_meaning": "The turning cog of circumstance. Align with momentum rather than resisting the inevitable turn.",
+    "reversed_meaning": "Resisting the cycle, misfortune born of stagnation, or clinging to the past rim."
+  },
+  {
+    "id": "tower",
+    "name": "The Tower",
+    "suit": "major",
+    "number": 16,
+    "arcana": "major",
+    "keywords": [
+      "Cataclysmic Realignment",
+      "Shattered Falsehood",
+      "Liberating Shock"
+    ],
+    "upright_meaning": "Lightning shatters the citadel of pride. Sudden disruption exposes brittle dogma, freeing the foundation.",
+    "reversed_meaning": "Averting necessary collapse, trapped in decay, or fear of dismantling illusions."
+  },
+  {
+    "id": "cups_knight",
+    "name": "Knight of Chalices",
+    "suit": "chalices",
+    "number": 12,
+    "arcana": "minor",
+    "keywords": [
+      "Poetic Champion",
+      "Quest of Heart",
+      "Graceful Envoy",
+      "Diplomacy"
+    ],
+    "upright_meaning": "The visionary messenger riding under the banner of deep devotion. Romantic, sensitive, and dedicated to the quest.",
+    "reversed_meaning": "Emotional manipulation, passive escapism, fickle loyalty, or ungrounded daydreaming."
+  },
+  {
+    "id": "cups_ace",
+    "name": "Ace of Chalices",
+    "suit": "chalices",
+    "number": 1,
+    "arcana": "minor",
+    "keywords": [
+      "Overflowing Vessel",
+      "Primal Compassion",
+      "Spiritual Renewal",
+      "Love"
+    ],
+    "upright_meaning": "The uncorrupted font of feeling. Grace, new intimacy, and deep spiritual communion.",
+    "reversed_meaning": "Spilled vessel, emotional depletion, blocked affection, or spiritual fatigue."
+  }
+]

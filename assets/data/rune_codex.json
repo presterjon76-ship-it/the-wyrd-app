@@ -1,0 +1,374 @@
+[
+  {
+    "id": "fehu",
+    "name": "Fehu",
+    "letter": "F",
+    "aett": "freyr",
+    "canInvert": true,
+    "keywords": [
+      "Mobile Wealth",
+      "Primal Fire",
+      "Circulation",
+      "Abundance"
+    ],
+    "upright_meaning": "Fehu is circulating wealth, primal fire, and active nourishment. It calls for purposeful reinvestment.",
+    "shadow_meaning": "Material stagnation, scarcity dread, hoarding, or energy squandered through carelessness."
+  },
+  {
+    "id": "uruz",
+    "name": "Uruz",
+    "letter": "U",
+    "aett": "freyr",
+    "canInvert": true,
+    "keywords": [
+      "Primal Vitality",
+      "Raw Strength",
+      "Endurance",
+      "Untamed Will"
+    ],
+    "upright_meaning": "Uruz embodies the untamed strength and physical fortitude of the aurochs. Regeneration and physical vitality.",
+    "shadow_meaning": "Brute hostility, misdirected vigor, stubborn resistance to necessary change, or exhaustion."
+  },
+  {
+    "id": "thurisaz",
+    "name": "Thurisaz",
+    "letter": "Th",
+    "aett": "freyr",
+    "canInvert": true,
+    "keywords": [
+      "Threshold",
+      "The Hammer",
+      "Defensive Thorn",
+      "Primal Force"
+    ],
+    "upright_meaning": "Thurisaz is the reactive barrier and the hammer strike. Decisive protective force and threshold vigilance.",
+    "shadow_meaning": "Compulsive violence, vulnerability, crossing boundaries without discipline, or victimization."
+  },
+  {
+    "id": "ansuz",
+    "name": "Ansuz",
+    "letter": "A",
+    "aett": "freyr",
+    "canInvert": true,
+    "keywords": [
+      "Divine Breath",
+      "Ancestral Wisdom",
+      "Truth",
+      "Eloquence"
+    ],
+    "upright_meaning": "Ansuz represents the inspired voice, sacred transmission, and sovereign wisdom. Attune to guidance.",
+    "shadow_meaning": "Distortion of truth, demagoguery, cognitive dissonance, or manipulation of words."
+  },
+  {
+    "id": "raidho",
+    "name": "Raidho",
+    "letter": "R",
+    "aett": "freyr",
+    "canInvert": true,
+    "keywords": [
+      "The Wagon",
+      "Right Order",
+      "The Journey",
+      "Cyclical Rhythm"
+    ],
+    "upright_meaning": "Raidho represents the wagon journey, cosmic rhythm, and alignment with rightful natural law.",
+    "shadow_meaning": "Stasis, mechanical paralysis, disruption of flow, or traveling the wrong path blindly."
+  },
+  {
+    "id": "kenaz",
+    "name": "Kenaz",
+    "letter": "K",
+    "aett": "freyr",
+    "canInvert": true,
+    "keywords": [
+      "The Torch",
+      "Craftsmanship",
+      "Illumination",
+      "Transformation"
+    ],
+    "upright_meaning": "Kenaz is the controlled flame of the artisan. Clear technical insight, sharp perception, and craft.",
+    "shadow_meaning": "The torch extinguished, intellectual arrogance, burnt bridges, or hidden fires consuming discipline."
+  },
+  {
+    "id": "gebo",
+    "name": "Gebo",
+    "letter": "G",
+    "aett": "freyr",
+    "canInvert": false,
+    "keywords": [
+      "Sacred Exchange",
+      "Reciprocity",
+      "Covenant",
+      "Balance"
+    ],
+    "upright_meaning": "Gebo represents mutual respect, equal honor, and covenant. A gift demands a gift to preserve equilibrium.",
+    "shadow_meaning": "Contemplative Shadow: Hidden transactional debt, boundary violation, or codependency masquerading as generosity."
+  },
+  {
+    "id": "wunjo",
+    "name": "Wunjo",
+    "letter": "W",
+    "aett": "freyr",
+    "canInvert": true,
+    "keywords": [
+      "Kinship Fellowship",
+      "Mastery Joy",
+      "Harmony",
+      "Completion"
+    ],
+    "upright_meaning": "Wunjo represents communal celebration, friction-free alignment, and contentment born of good labor.",
+    "shadow_meaning": "Alienation, manufactured cheer, toxic tribalism, or mourning over lost cohesion."
+  },
+  {
+    "id": "hagalaz",
+    "name": "Hagalaz",
+    "letter": "H",
+    "aett": "heimdall",
+    "canInvert": false,
+    "keywords": [
+      "Hailstorm",
+      "Structural Disruption",
+      "Radical Realignment"
+    ],
+    "upright_meaning": "Hagalaz is the unyielding hailstorm that shatters brittle structures to clear the ground for true foundations.",
+    "shadow_meaning": "Contemplative Shadow: Clinging to ruin, self-sabotaging chaos, or failure to extract wisdom from crisis."
+  },
+  {
+    "id": "nauthiz",
+    "name": "Nauthiz",
+    "letter": "N",
+    "aett": "heimdall",
+    "canInvert": true,
+    "keywords": [
+      "The Need-Fire",
+      "Friction",
+      "Constraint",
+      "Crucible"
+    ],
+    "upright_meaning": "Nauthiz is constraint forcing invention. Friction creates the spark; limitation reveals vital essence.",
+    "shadow_meaning": "Hopeless fatalism, self-inflicted deprivations, or despair in the face of inevitable restraint."
+  },
+  {
+    "id": "isa",
+    "name": "Isa",
+    "letter": "I",
+    "aett": "heimdall",
+    "canInvert": false,
+    "keywords": [
+      "The Glacier",
+      "Stillness",
+      "Absolute Stasis",
+      "Focus"
+    ],
+    "upright_meaning": "Isa is the ice sheet. Stillness is preservation, crystallizing clarity and halting momentum until the thaw.",
+    "shadow_meaning": "Contemplative Shadow: Emotional numbness, paralysis, rigid entrenchment, and isolation."
+  },
+  {
+    "id": "jera",
+    "name": "Jera",
+    "letter": "J",
+    "aett": "heimdall",
+    "canInvert": false,
+    "keywords": [
+      "The Turn of Year",
+      "Rightful Harvest",
+      "Patience",
+      "Cycles"
+    ],
+    "upright_meaning": "Jera is the turning season and earned yield. What was seeded with discipline is harvested in proper time.",
+    "shadow_meaning": "Contemplative Shadow: Impatience with maturation, rushing outcomes, or failing to gather the harvest."
+  },
+  {
+    "id": "eihwaz",
+    "name": "Eihwaz",
+    "letter": "Ei",
+    "aett": "heimdall",
+    "canInvert": false,
+    "keywords": [
+      "The Yew Tree",
+      "Axis of Worlds",
+      "Resilience",
+      "Endurance"
+    ],
+    "upright_meaning": "Eihwaz is the eternal yew: toxic yet life-giving, rooted in the underworld while supporting the heavens.",
+    "shadow_meaning": "Contemplative Shadow: Existential terror of transformation, stubborn refusal to yield, or root rot."
+  },
+  {
+    "id": "perthro",
+    "name": "Perthro",
+    "letter": "P",
+    "aett": "heimdall",
+    "canInvert": true,
+    "keywords": [
+      "The Dice Cup",
+      "The Unmanifest",
+      "Occult Mechanism",
+      "Fate"
+    ],
+    "upright_meaning": "Perthro is the casting horn of the Norns. Hidden variables align, inviting mastery of probability.",
+    "shadow_meaning": "Reckless gambling, addictive reliance on chance, paranoia, or spiritual deception."
+  },
+  {
+    "id": "algiz",
+    "name": "Algiz",
+    "letter": "Z",
+    "aett": "heimdall",
+    "canInvert": true,
+    "keywords": [
+      "The Sentry",
+      "Elk Antler",
+      "Sanctuary",
+      "Higher Connection"
+    ],
+    "upright_meaning": "Algiz is the watchful sentry and the protective spear hedge. Clear spiritual boundaries and vigilance.",
+    "shadow_meaning": "Lowering defenses, false security, vulnerability to intrusion, or paranoid suspicion."
+  },
+  {
+    "id": "sowilo",
+    "name": "Sowilo",
+    "letter": "S",
+    "aett": "heimdall",
+    "canInvert": false,
+    "keywords": [
+      "Solar Lightning",
+      "Sovereign Light",
+      "Victory",
+      "Vitality"
+    ],
+    "upright_meaning": "Sowilo is the blinding sun-wheel and sudden illumination. Absolute triumph, clarity, and sovereign vigor.",
+    "shadow_meaning": "Contemplative Shadow: Burnout, blinding radiance, manic exhaustion, or scorch-earth pride."
+  },
+  {
+    "id": "tiwaz",
+    "name": "Tiwaz",
+    "letter": "T",
+    "aett": "tyr",
+    "canInvert": true,
+    "keywords": [
+      "The Spear",
+      "Self-Sacrifice",
+      "Moral Law",
+      "Single-Minded Will"
+    ],
+    "upright_meaning": "Tiwaz is the arrow of justice and Tyr's sworn sacrifice. Decisive action aligned with cosmic law.",
+    "shadow_meaning": "Fanaticism, dishonorable retreat, martyrdom without purpose, or corrupted authority."
+  },
+  {
+    "id": "berkano",
+    "name": "Berkano",
+    "letter": "B",
+    "aett": "tyr",
+    "canInvert": true,
+    "keywords": [
+      "The Birch Mother",
+      "Sanctuary",
+      "Fertile Growth",
+      "Nurture"
+    ],
+    "upright_meaning": "Berkano is the birch bough and fertile earth. Gentle generation, healing, and patient maternal shelter.",
+    "shadow_meaning": "Stifling overprotection, stagnation of creative seed, domestic discord, or decay."
+  },
+  {
+    "id": "ehwaz",
+    "name": "Ehwaz",
+    "letter": "E",
+    "aett": "tyr",
+    "canInvert": true,
+    "keywords": [
+      "The Warhorse",
+      "Dynamic Partnership",
+      "Loyalty",
+      "Paced Motion"
+    ],
+    "upright_meaning": "Ehwaz is the sacred stallion and rider moving in unison. Synergy, unwavering allegiance, and steady progression.",
+    "shadow_meaning": "Betrayal of trust, broken teamwork, bucking the rein, or erratic discord."
+  },
+  {
+    "id": "mannaz",
+    "name": "Mannaz",
+    "letter": "M",
+    "aett": "tyr",
+    "canInvert": true,
+    "keywords": [
+      "The Human Continuum",
+      "Self-Awareness",
+      "The Collective Mind"
+    ],
+    "upright_meaning": "Mannaz is consciousness, community intellect, and mortal potential. Know thyself within the collective.",
+    "shadow_meaning": "Misanthropy, self-delusion, societal alienation, or hive-mind mediocrity."
+  },
+  {
+    "id": "laguz",
+    "name": "Laguz",
+    "letter": "L",
+    "aett": "tyr",
+    "canInvert": true,
+    "keywords": [
+      "The Living Ocean",
+      "Intuition",
+      "The Deep Tide",
+      "Vital Flow"
+    ],
+    "upright_meaning": "Laguz is deep water and tidal intuition. Yielding to currents, subconscious depth, and fluid navigation.",
+    "shadow_meaning": "Drowning in delusion, emotional paralysis, overwhelming tides, or murky deceit."
+  },
+  {
+    "id": "ingwaz",
+    "name": "Ingwaz",
+    "letter": "Ng",
+    "aett": "tyr",
+    "canInvert": false,
+    "keywords": [
+      "The Sealed Seed",
+      "Latent Energy",
+      "Internal Gestation"
+    ],
+    "upright_meaning": "Ingwaz is the closed vessel and subterranean gestation. Creative potential gathers quietly until birth.",
+    "shadow_meaning": "Contemplative Shadow: Premature unveiling, bursting before maturation, or suffocated vitality."
+  },
+  {
+    "id": "dagaz",
+    "name": "Dagaz",
+    "letter": "D",
+    "aett": "tyr",
+    "canInvert": false,
+    "keywords": [
+      "The Dawn",
+      "Polar Paradox",
+      "Breakthrough",
+      "Transmutation"
+    ],
+    "upright_meaning": "Dagaz is the dawn twilight bridging day and night. Radical paradigm shift, awakening, and synthetic breakthrough.",
+    "shadow_meaning": "Contemplative Shadow: Hesitation at the threshold, fear of total revelation, or returning to dark sleep."
+  },
+  {
+    "id": "othala",
+    "name": "Othala",
+    "letter": "O",
+    "aett": "tyr",
+    "canInvert": true,
+    "keywords": [
+      "Ancestral Domain",
+      "Lineage",
+      "Sacred Enclosure",
+      "Heritage"
+    ],
+    "upright_meaning": "Othala is the inherited homeland and sovereign boundary. The cultural hearth, ancestral gifts, and defended domain.",
+    "shadow_meaning": "Exclusion, xenophobic isolation, loss of ancestral root, or boundary failure."
+  },
+  {
+    "id": "wyrd",
+    "name": "Wyrd",
+    "letter": "\u2014",
+    "aett": "wyrd",
+    "canInvert": false,
+    "keywords": [
+      "The Void",
+      "Unwritten Destiny",
+      "Pure Potential",
+      "Cosmic Will"
+    ],
+    "upright_meaning": "The Blank Rune. The void beyond mortal computation. Surrender to fate; the shuttle moves across the cosmic loom.",
+    "shadow_meaning": "Contemplative Shadow: Fatalistic paralysis, surrender of agency, or dreading the unwritten horizon."
+  }
+]
